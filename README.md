@@ -54,9 +54,18 @@ This project is a Python application that displays a user's calendar events from
 
 2. Create a Virtual Environment
 
-    ```sh
+    Using bash
+
+    ```bash
     python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    ./venv/Scripts/activate  # On Windows use `venv\Scripts\activate`
+    ```
+
+    or using cmd
+
+    ```cmd
+    python -m venv venv
+    .\venv\Scripts\activate
     ```
 
 3. **Install the Required Packages:**
