@@ -12,7 +12,7 @@ This project is a Python application that displays a user's calendar events from
 
 - Python 3.6 or higher
 - An Azure Tenant
-- An Azure App Registration
+- The ability to create an Azure App Registration
 
 ## Setup
 
